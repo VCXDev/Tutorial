@@ -23,7 +23,7 @@
 
 ***
 
-## SUPPORT ME AND MILRATO DEVELOPMENT
+## SUPPORT ME
 
 > You can always Support me by inviting one of my **own Discord Bots**
 
