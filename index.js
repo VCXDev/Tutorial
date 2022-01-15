@@ -58,3 +58,6 @@ bot.on(`messageCreate`, async message =>{
 
 // Login
 bot.login(config.token)
+
+
+// Credits :  VCX#8460 and RappyTV#6969
